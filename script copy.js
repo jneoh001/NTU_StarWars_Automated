@@ -10,8 +10,8 @@ Note: This will only register courses in plan 1.
 */
 
 
-const myUsername = "JNGIAM005";
-const myPassword = "G0rd0n12345!";
+const myUsername = "ryeow002";
+const myPassword = "Ezecom86400";
 
 const STARS_HOURS = 14;
 const STARS_MINUTES = 0;
